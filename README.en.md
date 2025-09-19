@@ -1,4 +1,4 @@
-# User end of the intelligent hospital registration system
+# User Frontend of the Intelligent Hospital Registration System
 
 ### Introduction
 The smart registration project is split into three repositories:
