@@ -1,0 +1,111 @@
+
+/* 顶部栏 */
+.detail-header[data-v-95c2d772] {
+  height: 2.75rem;
+  display: flex;
+  align-items: center;
+  background: #fff;
+  border-bottom: 0.03125rem solid #eee;
+  position: relative;
+}
+.back-icon[data-v-95c2d772] {
+  font-family: 'iconfont';
+  margin-left: 0.75rem;
+  font-size: 1.125rem;
+  color: #333;
+}
+.header-title[data-v-95c2d772] {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 1.0625rem;
+  font-weight: 600;
+  color: #333;
+}
+
+/* 滚动区 */
+.detail-scroll[data-v-95c2d772] {
+  flex: 1;
+  background: #f6f7fb;
+}
+.detail-content[data-v-95c2d772] {
+  padding: 0.75rem;
+}
+
+/* 灰色卡片统一风格 */
+.detail-card[data-v-95c2d772] {
+  background: #fff;
+  border-radius: 0.625rem;
+  padding: 1rem 0.9375rem;
+  margin-bottom: 0.75rem;
+  box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.05);
+}
+
+/* 信息行样式 */
+.info-row[data-v-95c2d772] {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+  padding: 0.5rem 0;
+  border-bottom: 0.03125rem solid #f0f0f0;
+}
+.info-row[data-v-95c2d772]:last-child {
+  margin-bottom: 0;
+  border-bottom: none;
+}
+.info-label[data-v-95c2d772] {
+  color: #666;
+  font-size: 0.9375rem;
+  width: 40%;
+}
+.info-value[data-v-95c2d772] {
+  color: #333;
+  font-weight: 600;
+  font-size: 0.9375rem;
+  text-align: right;
+  width: 60%;
+}
+
+/* 卡片头部样式 */
+.card-header[data-v-95c2d772] {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 0.03125rem solid #f0f0f0;
+}
+.status[data-v-95c2d772] {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  padding: 0.125rem 0.375rem;
+  border-radius: 0.25rem;
+  margin-right: 0.5rem;
+}
+.cancelled[data-v-95c2d772] {
+  background: #ffecec;
+  color: #ff4d4f;
+}
+.completed[data-v-95c2d772] {
+  background: #e6f7ff;
+  color: #1890ff;
+}
+.pending[data-v-95c2d772] {
+  background: #fff7e6;
+  color: #fa8c16;
+}
+.clinic[data-v-95c2d772] {
+  font-size: 1.0625rem;
+  font-weight: 600;
+  color: #333;
+}
+
+/* 让页面占满屏幕 */
+body[data-v-95c2d772] {
+  height: 100%;
+}
+.detail-page[data-v-95c2d772] {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}

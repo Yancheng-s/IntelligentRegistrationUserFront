@@ -1,0 +1,69 @@
+/* uni.scss */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.empty-page[data-v-3f335a62] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin-top: -9.375rem;
+  background-color: #ffffff;
+  text-align: center;
+}
+.empty-image[data-v-3f335a62] {
+  width: 15.625rem;
+  height: 12.5rem;
+  margin-right: 20rtx;
+  opacity: 0.6;
+}
+.empty-title[data-v-3f335a62] {
+  font-size: 1.125rem;
+  color: #666;
+  margin-bottom: 0.625rem;
+  font-weight: 500;
+}
+.empty-subtitle[data-v-3f335a62] {
+  font-size: 0.875rem;
+  color: #999;
+  margin-bottom: 1.875rem;
+}
+.empty-button[data-v-3f335a62] {
+  width: 7.5rem;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  border-radius: 1.25rem;
+  font-size: 0.875rem;
+  color: #fff;
+  background-color: #007aff;
+}
+.empty-button[data-v-3f335a62]:active {
+  opacity: 0.8;
+}
+.empty-button[data-v-3f335a62]::after {
+  border: none;
+}
+
+/* 暗黑模式适配 */
+@media (prefers-color-scheme: dark) {
+.empty-page[data-v-3f335a62] {
+    background-color: #1a1a1a;
+}
+.empty-title[data-v-3f335a62] {
+    color: #ddd;
+}
+.empty-subtitle[data-v-3f335a62] {
+    color: #888;
+}
+}

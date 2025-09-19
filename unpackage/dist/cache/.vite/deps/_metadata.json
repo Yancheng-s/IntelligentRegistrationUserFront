@@ -1,0 +1,27 @@
+{
+  "hash": "f1afe298",
+  "configHash": "b1688ab0",
+  "lockfileHash": "437b9590",
+  "browserHash": "0fe0098f",
+  "optimized": {
+    "dayjs/esm/index": {
+      "src": "../../../../../node_modules/dayjs/esm/index.js",
+      "file": "dayjs_esm_index.js",
+      "fileHash": "b1b15f7c",
+      "needsInterop": false
+    },
+    "marked": {
+      "src": "../../../../../node_modules/marked/lib/marked.esm.js",
+      "file": "marked.js",
+      "fileHash": "70f9dc7a",
+      "needsInterop": false
+    },
+    "dompurify": {
+      "src": "../../../../../node_modules/dompurify/dist/purify.es.mjs",
+      "file": "dompurify.js",
+      "fileHash": "b4997db0",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}

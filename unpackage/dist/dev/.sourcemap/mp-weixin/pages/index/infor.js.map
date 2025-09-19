@@ -1,0 +1,1 @@
+{"version":3,"file":"infor.js","sources":["../../HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvaW5kZXgvaW5mb3IudnVl"],"sourcesContent":["import MiniProgramPage from 'C:/HBuilderX.4.75.2025071105/HB_progects/text/pages/index/infor.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;AACA,GAAG,WAAW,eAAe;"}

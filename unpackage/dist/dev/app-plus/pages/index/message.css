@@ -1,0 +1,84 @@
+
+/* 固定顶部操作栏样式 */
+.msg-header[data-v-afb03656] {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem;
+  background: #f6f7fb;
+  font-size: 0.875rem;
+}
+
+/* 滚动容器占满屏幕并减去顶部高度 */
+.msg-scroll[data-v-afb03656] {
+  height: 100vh;
+  padding-top: 2.5rem; /* 顶部操作栏高度 */
+  padding-bottom: 3.125rem;
+  box-sizing: border-box;
+}
+
+/* 以下样式与你原文件基本一致，只调整了msg-page的padding-top */
+.msg-page[data-v-afb03656] {
+  padding: 0.9375rem;
+  background: #f6f7fb;
+  padding-top: 0; /* 去掉顶部内边距，因为已经有scroll-view的padding-top了 */
+}
+.msg-count[data-v-afb03656] { color: #666;
+}
+.msg-allRead[data-v-afb03656] { color: #007aff;
+}
+.msg-card[data-v-afb03656] {
+  background: #fff;
+  border-radius: 0.625rem;
+  padding-left: 1rem;
+  padding-right: 0.9375rem;
+  padding-top: 1.25rem;
+  padding-bottom: 0.15625rem;
+  box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.05);
+  margin-bottom: 0.75rem;
+}
+.card-title[data-v-afb03656] {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+.dot[data-v-afb03656] {
+  width: 0.375rem;
+  height: 0.375rem;
+  background: #c8c8c8;
+  border-radius: 50%;
+  margin-right: 0.375rem;
+}
+.dot.unread[data-v-afb03656] { background: #4cd964;
+}
+.title-text[data-v-afb03656] {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: #333;
+}
+.msg-title[data-v-afb03656] {
+  font-size: 1.0625rem;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+.info-list[data-v-afb03656] { margin-bottom: 0.75rem;
+}
+.info-item[data-v-afb03656] {
+  display: flex;
+  margin-bottom: 0.375rem;
+  font-size: 0.875rem;
+}
+.info-label[data-v-afb03656] {
+  color: #999;
+  min-width: 5rem;
+}
+.info-value[data-v-afb03656] { color: #333;
+}
+.success[data-v-afb03656] { color: #4cd964;
+}
