@@ -1,4 +1,4 @@
-# IntelligentRegistrationUserFront（智能挂号用户端网页代码仓库）
+# IntelligentRegistrationUserFront（智能医院挂号系统用户端）
 
 ### 介绍
 智能挂号项目分别放在三个代码仓库：
