@@ -75,7 +75,7 @@ pnpm build:h5
 | 科室列表 | pages/index/secondVue/departmentList | `department.png` | ![科室列表](./docs/assets/department.png) |
 | 医生排班 | pages/index/secondVue/doctoList | `doctor-schedule.png` | ![医生排班](./docs/assets/doctor-schedule.png) |
 | 挂号申请 | pages/index/secondVue/registrationApplication | `registration-application.png` | ![挂号申请](./docs/assets/registration-application.png) |
-| 挂号成功 | pages/index/secondVue/registerSuccess | `register-success.png` | ![挂号成功](./docs/assets/register-success.png) |
+| 挂号成功 | pages/index/secondVue/registerSuccess | `register-success.png` | ![挂号成功](./docs/assets/order-detail.png) |
 | 预约记录 | pages/index/secondVue/appointment | `appointment.png` | ![预约记录](./docs/assets/appointment.png) |
 | 就诊人列表 | pages/index/secondVue/medicalVisitInformation | `patient-management.png` | ![就诊人列表](./docs/assets/patient-management.png) |
 | 添加就诊人 | pages/index/secondVue/addPatienter | `add-patient.png` | ![添加就诊人](./docs/assets/add-patient.png) |
