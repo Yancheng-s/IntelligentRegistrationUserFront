@@ -1,6 +1,17 @@
-# IntelligentRegistrationUserFront
+# IntelligentRegistrationUserFront（用户端网页代码仓库）
 
 ### 介绍
+智能挂号项目分别放在三个代码仓库：
+
+1.用户端网页代码仓库：
+https://gitee.com/garveyer/intelligent-registration-user-front
+
+2.管理员端网页代码仓库：
+https://gitee.com/garveyer/intelligent-registration-admin-front
+
+3.后端代码仓库：
+https://gitee.com/garveyer/IntelligentRegistrationBack
+
 智能挂号项目用户端网页代码。基于 uni-app + Vue3 + Vite 构建，一套代码同时支持微信小程序与 H5，提供在线预约挂号、智能导诊、就诊人管理、订单查询等完整流程。
 
 ### 项目特色
