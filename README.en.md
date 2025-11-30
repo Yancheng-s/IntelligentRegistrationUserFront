@@ -3,11 +3,11 @@
 ### Introduction
 The smart registration project is split into three repositories:
 
-1. User Front-End Repository:  https://gitee.com/garveyer/intelligent-registration-user-front  
+1. User Front-End Repository:  https://github.com/Yancheng-s/IntelligentRegistrationUserFront  
 
-2. Admin Front-End Repository:  https://gitee.com/garveyer/intelligent-registration-admin-front  
+2. Admin Front-End Repository:  https://github.com/Yancheng-s/IntelligentRegistrationAdminFront  
 
-3. Back-End Repository:  https://gitee.com/garveyer/IntelligentRegistrationBack  
+3. Back-End Repository:  https://github.com/Yancheng-s/IntelligentRegistrationBack  
 
 User-end web code for the smart registration project. Built with uni-app + Vue3 + Vite, one codebase runs on both WeChat Mini-Program and H5, providing online appointment, AI triage, patient management, order inquiry and other complete workflows.
 
