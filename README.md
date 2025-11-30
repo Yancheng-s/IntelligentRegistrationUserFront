@@ -6,13 +6,13 @@
 智能挂号项目分别放在三个代码仓库：
 
 1.用户端网页代码仓库：
-https://gitee.com/garveyer/intelligent-registration-user-front
+https://github.com/Yancheng-s/IntelligentRegistrationUserFront
 
 2.管理员端网页代码仓库：
-https://gitee.com/garveyer/intelligent-registration-admin-front
+https://github.com/Yancheng-s/IntelligentRegistrationAdminFront
 
 3.后端代码仓库：
-https://gitee.com/garveyer/IntelligentRegistrationBack
+https://github.com/Yancheng-s/IntelligentRegistrationBack
 
 ### 项目特色
 
@@ -122,3 +122,4 @@ pnpm build:h5
 感谢所有贡献者的支持！
 
 ⭐ 如果这个项目对您有帮助，请给个Star支持一下！
+
